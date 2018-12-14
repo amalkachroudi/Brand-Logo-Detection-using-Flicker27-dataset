@@ -1,8 +1,11 @@
+
 # Brand-Logo-Detection-using-Flicker27-dataset
-This is a Brand logo classification done by convolutional  network based on TFLeanrn and python.
+This is a Brand logo classification done by convolutional  network based on TFLearn and python.
 The dataset is taken from flickr 27 logo dataset.
 
+
 # Steps
+
 Inorder to train the convolutional network  and classify the data set:
 * Preprocese the images and split the data into train and test sets.
 * Index the data into a pickle file which contains features of the logo such as width, height and no. of channel.
